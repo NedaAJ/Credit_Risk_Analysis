@@ -19,3 +19,8 @@ You can find the Analysis file here: [credit_risk_resampling.ipynb](https://gith
 
 
 ## Summary
+
+
+## Contact:
+- Email : [neda.ahmadi.jesh@gmail.com](mailto:neda.ahmadi.jesh@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- Linkedin: www.linkedin.com/in/neda-ahmadi-j
