@@ -54,7 +54,10 @@ The high risk precision is still poor, at just 7% with 91 percent sensitivity, r
 The low risk sensitivity is now 94 percent with 100 percent precision, thanks to a decreasing number of false positives.
 
 ## Summary
-
+All of the credit risk analysis models have low accuracy in assessing if a credit risk is high.
+The Ensemble models resulted in significant improvements, particularly in the sensitivity of high-risk loans.
+With a recall of 92 percent, the EasyEnsembleClassifier model can detect virtually all high-risk credit. On the other hand, because of the poor accuracy, many low-risk credits are still misclassified as high-risk, putting the bank's credit strategy at risk and causing it to miss out on income prospects.
+As a result, I would advise the bank against using any of these algorithms to anticipate credit risk.
 
 ## Contact:
 - Email : [neda.ahmadi.jesh@gmail.com](mailto:neda.ahmadi.jesh@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
