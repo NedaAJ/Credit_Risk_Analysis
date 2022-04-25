@@ -1,6 +1,14 @@
 # Credit_Risk_Analysis
 You can find the Analysis file here: [credit_risk_resampling.ipynb](https://github.com/NedaAJ/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb) | [credit_risk_ensemble.ipynb](https://github.com/NedaAJ/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb)
 ## Analysis Overview
+We create and analyse multiple machine learning models to forecast credit risk using Python in this project.
+The following technique was used:
+- Using the RandomOverSampler and SMOTE algorithms, oversample the data.
+- Using the ClusterCentroids technique, undersample the data.
+- Using the SMOTEENN method, take a combinatorial approach to over- and undersampling.
+- BalancedRandomForestClassifier and EasyEnsembleClassifier are two machine learning models that eliminate bias.
+
+We'll assess these models' performance and offer a recommendation on whether or not they should be utilised to predict credit risk.
 
 ## Results (Balanced Accuracy Scores, Confusion Matrixes and Imbalanced Classification Reports)
 
