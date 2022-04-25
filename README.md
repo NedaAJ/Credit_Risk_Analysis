@@ -13,16 +13,14 @@ You can find the Analysis file here: [credit_risk_resampling.ipynb](https://gith
 
 ### SMOTE model
 <p align="center">
-  <img src="https://github.com/NedaAJ/Credit_Risk_Analysis/blob/main/Resources/SMOTE%20_BAS.PNG">
-</p>
-<p align="center">
-  <img src="https://github.com/NedaAJ/Credit_Risk_Analysis/blob/main/Resources/SMOTE%20_CM.PNG">
-</p>
-<p align="center">
-  <img src="https://github.com/NedaAJ/Credit_Risk_Analysis/blob/main/Resources/SMOTE_Classification_report.PNG">
+  <img src="https://github.com/NedaAJ/Credit_Risk_Analysis/blob/main/Resources/SMOTE%20_BAS.PNG"> <br> <img src="https://github.com/NedaAJ/Credit_Risk_Analysis/blob/main/Resources/SMOTE%20_CM.PNG"><img src="https://github.com/NedaAJ/Credit_Risk_Analysis/blob/main/Resources/SMOTE_Classification_report.PNG">
 </p>
 
+
 ### ClusterCentroids model
+<p align="center">
+  <img src="https://github.com/NedaAJ/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroids_BAS.PNG"> <br> <img src="https://github.com/NedaAJ/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroids_CM.PNG"><img src="https://github.com/NedaAJ/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroids_Classification_report.PNG">
+</p>
 
 ### SMOTEENN model
 
