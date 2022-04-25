@@ -6,7 +6,21 @@ You can find the Analysis file here: [credit_risk_resampling.ipynb](https://gith
 
 ### RandomOverSampler model
 
+<p align="center">
+  <img src="https://github.com/NedaAJ/Credit_Risk_Analysis/blob/main/Resources/RandomOverSampler_BAS.PNG"> <br> <img src="https://github.com/NedaAJ/Credit_Risk_Analysis/blob/main/Resources/RandomOverSampler_CM.PNG"><img src="https://github.com/NedaAJ/Credit_Risk_Analysis/blob/main/Resources/RandomOverSampler_Classification_report.PNG">
+</p>
+
+
 ### SMOTE model
+<p align="center">
+  <img src="https://github.com/NedaAJ/Credit_Risk_Analysis/blob/main/Resources/SMOTE%20_BAS.PNG">
+</p>
+<p align="center">
+  <img src="https://github.com/NedaAJ/Credit_Risk_Analysis/blob/main/Resources/SMOTE%20_CM.PNG">
+</p>
+<p align="center">
+  <img src="https://github.com/NedaAJ/Credit_Risk_Analysis/blob/main/Resources/SMOTE_Classification_report.PNG">
+</p>
 
 ### ClusterCentroids model
 
